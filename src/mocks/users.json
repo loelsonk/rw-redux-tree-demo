@@ -1,0 +1,12 @@
+{
+  "1":
+  {
+    "read": ["RBAMOUSER\\horodelk", "RBAMOUSER\\rzezakm"],
+    "write": ["RBAMOUSER\\horodelk"]
+  },
+  "539848001":
+  {
+    "read": ["RBAMOUSER\\horodelk", "RBAMOUSER\\rzezakm"],
+    "write": ["RBAMOUSER\\horodelk"]
+  }
+}

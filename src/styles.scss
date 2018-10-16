@@ -1,0 +1,24 @@
+.checkboxesWrapper {
+  display: grid;
+  text-align: center;
+  grid-template-columns: repeat(2, 40px);
+
+  span {
+    font-weight: 800;
+  }
+}
+
+.header {
+  background-color: #eee;
+  display: grid;
+  grid-template-columns: 500px 1fr;
+}
+
+$i:0;
+@for $i from 0 through 6 {
+  .level-#{$i} {
+    & .title {
+      padding-left: 40px * $i !important;
+    }
+  }
+}

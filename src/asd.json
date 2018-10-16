@@ -1,0 +1,1672 @@
+[
+  {
+    "id": 1,
+    "name": "Roche IT",
+    "path": []
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "path": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dia IT",
+    "path": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Diagnostics Business",
+    "path": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 14,
+    "name": "FD - Finance Diagnostics",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "name": "DO - Global Diagnostics Operation",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 12,
+    "name": "DX - CPS Centralised and PoC Solutions",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 13,
+    "name": "DQ - Global Quality Management & Regulatory",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 9,
+    "name": "DB - Business Development",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "name": "DF - Diagnostics Services",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "name": "DS - Solution Integration & Services",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 23,
+    "name": "DM - Molecular Solutions",
+    "path": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "name": "FA - IT Diagnostics",
+    "path": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 539848001,
+    "name": "FAC - Sequencing Services & Solutions",
+    "path": [
+      1,
+      2,
+      15
+    ]
+  },
+  {
+    "id": 533669001,
+    "name": "FAZ - Site IT Diagnostics",
+    "path": [
+      1,
+      2,
+      15
+    ]
+  },
+  {
+    "id": 533654001,
+    "name": "FAB - Global IT Demand",
+    "path": [
+      1,
+      2,
+      15
+    ]
+  },
+  {
+    "id": 533579001,
+    "name": "FAX - Sol  Maintenance and Support",
+    "path": [
+      1,
+      2,
+      15
+    ]
+  },
+  {
+    "id": 533462001,
+    "name": "FAY - Solution Delivery",
+    "path": [
+      1,
+      2,
+      15
+    ]
+  },
+  {
+    "id": 533443001,
+    "name": "FAE - DIA Hub IT",
+    "path": [
+      1,
+      2,
+      15
+    ]
+  },
+  {
+    "id": 542554001,
+    "name": "FAS - Strategy Architecture Governance",
+    "path": [
+      1,
+      2,
+      15
+    ]
+  },
+  {
+    "id": 16,
+    "name": "IT Diagnostics Regions",
+    "path": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 17,
+    "name": "DE - EMEA-LATAM Diagnostics",
+    "path": [
+      1,
+      2,
+      16
+    ]
+  },
+  {
+    "id": 18,
+    "name": "DN - Roche Diagnostics North America",
+    "path": [
+      1,
+      2,
+      16
+    ]
+  },
+  {
+    "id": 19,
+    "name": "DY - RD APAC",
+    "path": [
+      1,
+      2,
+      16
+    ]
+  },
+  {
+    "id": 21,
+    "name": "DT - RD US - Ventana",
+    "path": [
+      1,
+      2,
+      16
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pharma IT",
+    "path": [
+      1
+    ]
+  },
+  {
+    "id": 534020001,
+    "name": "FPS - Executive Assistant",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 534021001,
+    "name": "FP - Pharma Informatics",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 534022001,
+    "name": "FPA - Innovation & X-Functional Solutions",
+    "path": [
+      1,
+      3,
+      534021001
+    ]
+  },
+  {
+    "id": 534024001,
+    "name": "FPD - PD Informatics",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 534062001,
+    "name": "FPDX - PD PT Regulatory Clinical Ops & Science",
+    "path": [
+      1,
+      3,
+      534024001
+    ]
+  },
+  {
+    "id": 534032001,
+    "name": "FPDA - Medical Affairs & Biometrics",
+    "path": [
+      1,
+      3,
+      534024001
+    ]
+  },
+  {
+    "id": 534025001,
+    "name": "FPDD - PD Drug Safety",
+    "path": [
+      1,
+      3,
+      534024001
+    ]
+  },
+  {
+    "id": 534121001,
+    "name": "FPO - PI Strategic Initiatives&Portfolio Offic",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 538614001,
+    "name": "FPOC1201 - Global Customer Engagement",
+    "path": [
+      1,
+      3,
+      534121001
+    ]
+  },
+  {
+    "id": 534122001,
+    "name": "FPE - Informatics RE & EEMEA",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 534174001,
+    "name": "FPEC - Informatics Region EEMEA",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534206001,
+    "name": "FPEI - IT RE Cluster ES  PT IBERIA",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534214001,
+    "name": "FPES - IT EMEA User Services",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534233001,
+    "name": "FPEA - IT EMEA Business Solution Services",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534160001,
+    "name": "FPEU - Northern Europe Cluster",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534143001,
+    "name": "FPEM - IT RE Cluster IT GR IL SL CR",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534139001,
+    "name": "FPEP - IT EMEA PMO",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534124001,
+    "name": "FPEL1291 - IT RE Cluster CE PL CZ SK HU RO",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534123001,
+    "name": "FPEB - Application & Data Services",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534245001,
+    "name": "FPED - IT RE Cluster DE AT CH NL",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 534257001,
+    "name": "FPEF - IT RE Cluster FR BE",
+    "path": [
+      1,
+      3,
+      534122001
+    ]
+  },
+  {
+    "id": 533839001,
+    "name": "FPA - Informatics Americas",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 533840001,
+    "name": "FPAG - ITA BP gRED",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533931001,
+    "name": "FPAB - ITA BP Canada",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533930001,
+    "name": "FPAA - ITA Operations Mississauga",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533928001,
+    "name": "FPAM - ITA Portfolio Mgmt & Governance & Comms",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533915001,
+    "name": "FPAP - ITA User Services",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533879001,
+    "name": "FPAD - ITA BP US Comm Ops & USMA",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533865001,
+    "name": "FPAS - ITA BP SSF Site",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533944001,
+    "name": "FPAC - ITA BP LATAM",
+    "path": [
+      1,
+      3,
+      533839001
+    ]
+  },
+  {
+    "id": 533774001,
+    "name": "FPP - Informatics PT - GPS & Partnering",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 533775001,
+    "name": "FPPO - GPS and Partnering IT",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533783001,
+    "name": "FPPA - SSF FPP Services - Portfolio Management",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533838001,
+    "name": "FPPS - Supply Chain IT",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533820001,
+    "name": "FPPQ - PD PT Quality",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533812001,
+    "name": "FPPK - FPP Operations and Services",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533811001,
+    "name": "FPPB - PHC - IT Product Strategy-Management",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533793001,
+    "name": "FPPM - DS Manufacturing IT",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533784001,
+    "name": "FPPGC - DP Manufacturing IT   Strategy and Engin",
+    "path": [
+      1,
+      3,
+      533774001
+    ]
+  },
+  {
+    "id": 533985001,
+    "name": "FPC - Informatics APAC",
+    "path": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 533986001,
+    "name": "FPCA - IT MC India",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 533987001,
+    "name": "FPCA - IT Cluster SANZ",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 533988001,
+    "name": "FPCA - IT Cluster KR-TW-IND-PH",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 533992001,
+    "name": "FPCAAA - IT Cluster TH-MAL-VN-SIN",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 533999001,
+    "name": "FPCA - PMO - Singapore",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 534002001,
+    "name": "FPCA - IT Cluster CN - HKK",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 534012001,
+    "name": "FPCE - IT APAC Application and Data Services",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 534019001,
+    "name": "FPCB1760 - IT Operation",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 540945001,
+    "name": "FPCF - APAC IT",
+    "path": [
+      1,
+      3,
+      533985001
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Global Infrastructure and Solutions",
+    "path": [
+      1
+    ]
+  },
+  {
+    "id": 534815001,
+    "name": "FIC - GIS Communications",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 538104001,
+    "name": "FICA - GIS Communications",
+    "path": [
+      1,
+      24,
+      534815001
+    ]
+  },
+  {
+    "id": 534493001,
+    "name": "FIR - Infrastructure Services",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 534768001,
+    "name": "FIRD - Roche Scientific Infrastructure",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 534745001,
+    "name": "FIRP - Project Delivery and Transition",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 534494001,
+    "name": "FIRO - Global IT Operations",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 534813001,
+    "name": "FIRF - GIS Site Management",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 536360001,
+    "name": "FIRB - Global Enterprise Architecture",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 538103001,
+    "name": "FIREF160 - Infrastructure and Integration Engine",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 542917001,
+    "name": "FIRP - Project Delivery and Transition",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 534770001,
+    "name": "FIRE - Global Engineering",
+    "path": [
+      1,
+      24,
+      534493001
+    ]
+  },
+  {
+    "id": 534466001,
+    "name": "FIB - Global User Services",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 534485001,
+    "name": "FIBA - Service Desk Operations",
+    "path": [
+      1,
+      24,
+      534466001
+    ]
+  },
+  {
+    "id": 534472001,
+    "name": "FIBA - IT User Services APAC",
+    "path": [
+      1,
+      24,
+      534466001
+    ]
+  },
+  {
+    "id": 534476001,
+    "name": "FPBE - Service Desk Operations EMEA",
+    "path": [
+      1,
+      24,
+      534466001
+    ]
+  },
+  {
+    "id": 534467001,
+    "name": "FIBA - Global User Processes",
+    "path": [
+      1,
+      24,
+      534466001
+    ]
+  },
+  {
+    "id": 534465001,
+    "name": "FIA - Global Infrastructure and Solutions",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 534448001,
+    "name": "FIA - Account & Portfolio Management",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 534449001,
+    "name": "FIAA - Portfolio Management",
+    "path": [
+      1,
+      24,
+      534448001
+    ]
+  },
+  {
+    "id": 534452001,
+    "name": "FIAA - Technology Business Partner Sao Paulo",
+    "path": [
+      1,
+      24,
+      534448001
+    ]
+  },
+  {
+    "id": 534464001,
+    "name": "FIAC - SP&A Portfolio Management Office",
+    "path": [
+      1,
+      24,
+      534448001
+    ]
+  },
+  {
+    "id": 534460001,
+    "name": "FIAB - Cross-Functional PMO",
+    "path": [
+      1,
+      24,
+      534448001
+    ]
+  },
+  {
+    "id": 534457001,
+    "name": "FIAA - Technology Business Partner Indianapolis",
+    "path": [
+      1,
+      24,
+      534448001
+    ]
+  },
+  {
+    "id": 538628001,
+    "name": "FIX - Global ERP",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 534325001,
+    "name": "FIXA1000 - ERP - North America",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534331001,
+    "name": "FIXG1201 - Portfolio & Demand Management",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 536354001,
+    "name": "FIXB - ERP Functional Solution Delivery",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534323001,
+    "name": "FIXF1201 - WE CEMAI",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534320001,
+    "name": "FIXA2619 - ERP Latam",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534316001,
+    "name": "FIXA - FPC - Informatics APAC",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534307001,
+    "name": "FIXJ - Business Planning & Analytics",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534306001,
+    "name": "FIXI1201 - S2P Program",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534294001,
+    "name": "FIXC - ERP Demand to Supply",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534284001,
+    "name": "FIXB - Source To Pay",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534279001,
+    "name": "FIXE1201 - Recod to Report & Source to Pay",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534268001,
+    "name": "FIXD - A&R and ERP Basis",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534267001,
+    "name": "FIXH - ERP Informatics",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 539877001,
+    "name": "FIXC - ERP Program",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 533461001,
+    "name": "FIXA - ERP Digital Platform & Integration",
+    "path": [
+      1,
+      24,
+      538628001
+    ]
+  },
+  {
+    "id": 534266001,
+    "name": "FIS - Global IT Solution Center",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 534357001,
+    "name": "FISA - Global IT Solution Centre",
+    "path": [
+      1,
+      24,
+      534266001
+    ]
+  },
+  {
+    "id": 540647001,
+    "name": "FISK - IT Research and Development",
+    "path": [
+      1,
+      24,
+      534266001
+    ]
+  },
+  {
+    "id": 534421001,
+    "name": "FISV - Global IT Solution Centre PD & PT",
+    "path": [
+      1,
+      24,
+      534266001
+    ]
+  },
+  {
+    "id": 534400001,
+    "name": "FISC - Global IT Solution Centre RDR",
+    "path": [
+      1,
+      24,
+      534266001
+    ]
+  },
+  {
+    "id": 534375001,
+    "name": "FISG - Global IT Solution Centre Group Services",
+    "path": [
+      1,
+      24,
+      534266001
+    ]
+  },
+  {
+    "id": 534363001,
+    "name": "FISBA - Global BI Solution Center (SHA)",
+    "path": [
+      1,
+      24,
+      534266001
+    ]
+  },
+  {
+    "id": 534333001,
+    "name": "FISP - Application Services",
+    "path": [
+      1,
+      24
+    ]
+  },
+  {
+    "id": 534420001,
+    "name": "FISPA - SP&A Portfolio Architect",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 534366001,
+    "name": "FISPB - Global Master Data Management",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 534365001,
+    "name": "FISBE - Business Intelligence & Master Data (EU)",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 534361001,
+    "name": "FISPD - Data Science Lab",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 534347001,
+    "name": "FISPO - OCM Learning and Adoption",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 534342001,
+    "name": "FISPE - Collaboration&Doc Mngmnt Solutions",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 542119001,
+    "name": "FISBB - Application Services BI MDM CSP 3 KL",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 534334001,
+    "name": "FISPS - Publish Search & Workflow Automation",
+    "path": [
+      1,
+      24,
+      534333001
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Diabetes Care IT",
+    "path": [
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "name": "pREDi",
+    "path": [
+      1
+    ]
+  },
+  {
+    "id": 531838001,
+    "name": "PXIZ - Safety & Development Workflows",
+    "path": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 531839001,
+    "name": "PXIZB - Safety Workflows",
+    "path": [
+      1,
+      6,
+      531838001
+    ]
+  },
+  {
+    "id": 531834001,
+    "name": "PXIA - Development Workflows",
+    "path": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 3064656005,
+    "name": "pks validation suite",
+    "path": [
+      1,
+      6,
+      531834001
+    ]
+  },
+  {
+    "id": 2999649005,
+    "name": "phoenix winnonlin validation suite",
+    "path": [
+      1,
+      6,
+      531834001
+    ]
+  },
+  {
+    "id": 531835001,
+    "name": "PXIAA - Development Workflows Welwyn",
+    "path": [
+      1,
+      6,
+      531834001
+    ]
+  },
+  {
+    "id": 531836001,
+    "name": "PXIAA - Development Workflows RICNY A",
+    "path": [
+      1,
+      6,
+      531834001
+    ]
+  },
+  {
+    "id": 531859001,
+    "name": "PXIB - Technical Solution Delivery&Architecture",
+    "path": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 531860001,
+    "name": "PXIBA - Technical Solution Delivery",
+    "path": [
+      1,
+      6,
+      531859001
+    ]
+  },
+  {
+    "id": 531865001,
+    "name": "PXIBB - Solution Delivery & Architecture",
+    "path": [
+      1,
+      6,
+      531859001
+    ]
+  },
+  {
+    "id": 531847001,
+    "name": "PXID - Data Science",
+    "path": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 531848001,
+    "name": "PXIDA - Data Science IV",
+    "path": [
+      1,
+      6,
+      531847001
+    ]
+  },
+  {
+    "id": 531850001,
+    "name": "PXIDB - Data Science I",
+    "path": [
+      1,
+      6,
+      531847001
+    ]
+  },
+  {
+    "id": 531852001,
+    "name": "PXIDA - Data Science-V",
+    "path": [
+      1,
+      6,
+      531847001
+    ]
+  },
+  {
+    "id": 531854001,
+    "name": "PXIDG - Data Science III",
+    "path": [
+      1,
+      6,
+      531847001
+    ]
+  },
+  {
+    "id": 531857001,
+    "name": "PXIDH - pRED Informatics RICNY",
+    "path": [
+      1,
+      6,
+      531847001
+    ]
+  },
+  {
+    "id": 531851001,
+    "name": "PXIDD - Data Science II",
+    "path": [
+      1,
+      6,
+      531847001
+    ]
+  },
+  {
+    "id": 531840001,
+    "name": "PXIW - Discovery Workflows",
+    "path": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 531844001,
+    "name": "PXIWAD - SMR Workflows",
+    "path": [
+      1,
+      6,
+      531840001
+    ]
+  },
+  {
+    "id": 531845001,
+    "name": "PXIWA - Biologics workflows",
+    "path": [
+      1,
+      6,
+      531840001
+    ]
+  },
+  {
+    "id": 531842001,
+    "name": "PXIWBA - Biology Workflows",
+    "path": [
+      1,
+      6,
+      531840001
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Group Functions IT",
+    "path": [
+      1
+    ]
+  },
+  {
+    "id": 533751001,
+    "name": "FGI - IT Group Communications",
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 2999648005,
+    "name": "tol-newsflow",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3000429005,
+    "name": "tol-nextended",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3063297005,
+    "name": "tol-rocheshareprice",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3061728005,
+    "name": "tol-newselements",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3057385005,
+    "name": "tol-weather",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3003397005,
+    "name": "tol-serviceportal",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3025148005,
+    "name": "tol-calendar",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3031514005,
+    "name": "tol-misc",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3052852005,
+    "name": "tol-locator",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3053684005,
+    "name": "tol-webadmin",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 3055880005,
+    "name": "tol-phonebook",
+    "path": [
+      1,
+      4,
+      533751001
+    ]
+  },
+  {
+    "id": 533750001,
+    "name": "FGE - Group Functions IT Executive Support",
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 533715001,
+    "name": "FGQ - IT Security Quality Process & Risk",
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 533720001,
+    "name": "FGQE - IT Security & Privacy Governance",
+    "path": [
+      1,
+      4,
+      533715001
+    ]
+  },
+  {
+    "id": 533716001,
+    "name": "FGQI - Informatics for Informatics",
+    "path": [
+      1,
+      4,
+      533715001
+    ]
+  },
+  {
+    "id": 533727001,
+    "name": "FGQB - IT Quality Management Services",
+    "path": [
+      1,
+      4,
+      533715001
+    ]
+  },
+  {
+    "id": 533749001,
+    "name": "FGQG - Project Management SSF",
+    "path": [
+      1,
+      4,
+      533715001
+    ]
+  },
+  {
+    "id": 533742001,
+    "name": "FGQR - IT Risk Audit and Compliance",
+    "path": [
+      1,
+      4,
+      533715001
+    ]
+  },
+  {
+    "id": 533739001,
+    "name": "FGQM - IT Security Monitoring  Incident Resp",
+    "path": [
+      1,
+      4,
+      533715001
+    ]
+  },
+  {
+    "id": 533734001,
+    "name": "FGQA - IT Process & Performance Measurement",
+    "path": [
+      1,
+      4,
+      533715001
+    ]
+  },
+  {
+    "id": 533694001,
+    "name": "FGH - HR IT",
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 533695001,
+    "name": "FGHS - HR Solution Management",
+    "path": [
+      1,
+      4,
+      533694001
+    ]
+  },
+  {
+    "id": 533696001,
+    "name": "FGHP - Enterprise Portal Management",
+    "path": [
+      1,
+      4,
+      533694001
+    ]
+  },
+  {
+    "id": 533699001,
+    "name": "FGHE - HR Engagement Management",
+    "path": [
+      1,
+      4,
+      533694001
+    ]
+  },
+  {
+    "id": 533700001,
+    "name": "FGHL - Learning Solution Management",
+    "path": [
+      1,
+      4,
+      533694001
+    ]
+  },
+  {
+    "id": 533705001,
+    "name": "FGHR - HR Service Management",
+    "path": [
+      1,
+      4,
+      533694001
+    ]
+  },
+  {
+    "id": 533753001,
+    "name": "FGS - Cross Functional Services",
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 533758001,
+    "name": "FGSP - Project & Portfolio Management",
+    "path": [
+      1,
+      4,
+      533753001
+    ]
+  },
+  {
+    "id": 533754001,
+    "name": "FGSS - Solution & Service Management",
+    "path": [
+      1,
+      4,
+      533753001
+    ]
+  },
+  {
+    "id": 533755001,
+    "name": "FGSQ - IT Quality & Compliance",
+    "path": [
+      1,
+      4,
+      533753001
+    ]
+  },
+  {
+    "id": 533760001,
+    "name": "FGS - Budapest FG IT Solution Service",
+    "path": [
+      1,
+      4,
+      533753001
+    ]
+  },
+  {
+    "id": 533772001,
+    "name": "FGA - Vendor Management Office",
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 533761001,
+    "name": "FGL - Informatics Group Legal",
+    "path": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": 533763001,
+    "name": "FGLR - Records Management & eArchiving",
+    "path": [
+      1,
+      4,
+      533761001
+    ]
+  },
+  {
+    "id": 533770001,
+    "name": "FGLA - Group Legal Applications",
+    "path": [
+      1,
+      4,
+      533761001
+    ]
+  }
+]

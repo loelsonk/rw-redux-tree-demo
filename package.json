@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.2.0",
+    "@material-ui/icons": "^3.0.1",
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.9.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react-redux": "^5.0.7",
+    "react-scripts": "2.0.4",
+    "react-virtualized": "^9.20.1",
+    "react-virtualized-tree": "^2.3.2",
+    "redux": "^4.0.0",
+    "redux-form": "^7.4.2",
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
